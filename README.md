@@ -47,7 +47,7 @@
 1.  **Beautiful Colors** (borrowed from [Keith Knittel - CSSTricks](https://css-tricks.com/styling-a-server-generated-file-directory/))
 2.  **Responsive Page** - Mobile users can browse through files easily
 3.  **Filter** files by name
-4.  4.  **Icons** - File and Folder icons
+4.  **Icons** - File and Folder icons
 
 
 ## Credits
